@@ -1,0 +1,31 @@
+.spacing {
+    padding-top: 10px;
+}
+
+header.backgroundcolor {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #181a6e;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.resume {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    Font-style: normal;
+    Font-size: 14px;
+    vertical-align: middle;
+    line-height: 2;
+}
+
+.rheading {
+    font-weight:bold;
+}
+
+.rlineitem {
+    font-style:italic;
+}
+
